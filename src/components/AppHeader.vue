@@ -2,7 +2,7 @@
     <div class="container">
       <div class="wrapper">
         <IconDeviceLogService class="logo"></IconDeviceLogService>
-        <h1>Device Log Service- header changed again</h1>
+        <h1>Device Log Service- header changed again and again</h1>
       </div>
       <!-- <form @submit.prevent="searchLocations" class="wrapper search">
           <InputText v-model="searchTerm" placeholder="search" class="input"></InputText>
